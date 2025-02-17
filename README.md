@@ -67,8 +67,8 @@ Block Blast AI 是一个使用深度强化学习（Deep Reinforcement Learning�
 
 1. Clone the repository | 克隆仓库：
 ```bash
-git clone [repository_url]
-cd block-blast
+git clone https://github.com/kicofy/Block-Blast-GridMind-AI.git
+cd Block-Blast-GridMind-AI
 ```
 
 2. Create virtual environment (optional but recommended) | 创建虚拟环境（可选但推荐）：
@@ -240,10 +240,24 @@ MIT 许可证
 
 ## Contributing | 贡献
 
-Issues and Pull Requests are welcome!
+We welcome contributions to GridMind AI! Feel free to:
+- Report issues
+- Submit pull requests
+- Suggest new features
+- Improve documentation
 
-欢迎提交Issue和Pull Request！
+Please visit our [GitHub repository](https://github.com/kicofy/Block-Blast-GridMind-AI) for more information.
+
+欢迎为GridMind AI做出贡献！您可以：
+- 报告问题
+- 提交拉取请求
+- 建议新功能
+- 改进文档
+
+请访问我们的[GitHub仓库](https://github.com/kicofy/Block-Blast-GridMind-AI)了解更多信息。
 
 ## Contact | 联系方式
 
-ha22y.xing@gmail.com
+- GitHub: [@kicofy](https://github.com/kicofy)
+- Email: ha22y.xing@gmail.com
+- Project Repository: [Block-Blast-GridMind-AI](https://github.com/kicofy/Block-Blast-GridMind-AI)
